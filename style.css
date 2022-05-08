@@ -6,7 +6,7 @@ body{
     .container{
       background: hsl(0, 0%, 100%);
         width:330px;
-        height:70vh;
+        height:600px;
         display:flex;
         flex-direction: row;
         flex-wrap:wrap;
