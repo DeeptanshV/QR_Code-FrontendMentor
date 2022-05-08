@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [click here](https://github.com/DeeptanshV/QR_Code-FrontendMentor)
+- Live Site URL: [click here](https://deeptanshv.github.io/QR_Code-FrontendMentor/)
 
 ## My process
 -The very first step I took was to make a parent div and position it at the center of the page with the dimensions provided by Frontend Mentor.
